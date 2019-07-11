@@ -1,5 +1,8 @@
 # Organic
-HTML/CSS
+## one-page landing 
 
-include: only HTML/CSS
-preview: https://alexcrive.github.io/Organic/
+### include: 
+* HTML/CSS
+* PixelPerfect
+
+### Preview: https://alexcrive.github.io/Organic/
