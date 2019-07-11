@@ -1,7 +1,7 @@
 # Organic
 ## one-page landing 
 
-### include: 
+### tech include: 
 * HTML/CSS
 * PixelPerfect
 
